@@ -6,6 +6,13 @@ h1{
     font-size: 50px;
     font-weight: 600;
 }
+h2{
+    font-size: 40px;
+    font-weight: 600;
+}
+p{
+    color: dimgray;
+}
 .name-highlight{
     color: orange;
 }
@@ -25,6 +32,11 @@ section{
 .top-section{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+}
+.second-section{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .hire-me-button{
     text-decoration: none;
